@@ -105,6 +105,13 @@
       "roi_score": 1.0,
       "updated_at": "2026-07-22 12:15:15",
       "support_count": 0
+    },
+    {
+      "id": "f3e92f47cec34467b743aa065c85eab2",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 13:40:07",
+      "support_count": 0
     }
   ]
 }

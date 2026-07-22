@@ -70,6 +70,41 @@
       "roi_score": 1.0,
       "updated_at": "2026-07-22 12:06:16",
       "support_count": 0
+    },
+    {
+      "id": "f81e6a55add04682b8521fd462770ff6",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 12:15:14",
+      "support_count": 0
+    },
+    {
+      "id": "039b0e0a3a474dd08f1d6071c10dd873",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 12:15:14",
+      "support_count": 0
+    },
+    {
+      "id": "cfe64abcc28d4062a1c0aaf0c3319448",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 12:15:14",
+      "support_count": 0
+    },
+    {
+      "id": "ffc3837e67974b39a013254334b24eda",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 12:15:14",
+      "support_count": 0
+    },
+    {
+      "id": "63fb9eb9122040e29929d90c81df5e7b",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 12:15:15",
+      "support_count": 0
     }
   ]
 }

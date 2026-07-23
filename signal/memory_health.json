@@ -2,136 +2,136 @@
   "schema": "memo.sync.signal.v1",
   "rows": [
     {
-      "id": "6eb18d7034564eee94463c327d0fcf7d",
+      "id": "7589fbcdf86141e2a5e5c41be5019aa0",
       "confidence": 1.0,
       "roi_score": 1.0,
-      "updated_at": "2026-07-21 12:00:01",
-      "support_count": 0
-    },
-    {
-      "id": "f81e6a55add04682b8521fd462770ff6",
-      "confidence": 1.0,
-      "roi_score": 1.0,
-      "updated_at": "2026-07-23 10:26:54",
-      "support_count": 0
-    },
-    {
-      "id": "89a795ee33e74703b64476a0f6d2c3c6",
-      "confidence": 1.0,
-      "roi_score": 1.0,
-      "updated_at": "2026-07-23 10:26:55",
-      "support_count": 0
-    },
-    {
-      "id": "5721f19cf9e24449b90f462a4b031f77",
-      "confidence": 1.0,
-      "roi_score": 1.0,
-      "updated_at": "2026-07-23 10:26:57",
-      "support_count": 0
-    },
-    {
-      "id": "7f88a337f55648cf878d09643c9ec78f",
-      "confidence": 1.0,
-      "roi_score": 1.0,
-      "updated_at": "2026-07-23 10:26:58",
-      "support_count": 0
-    },
-    {
-      "id": "d3e7b63ec12c4a4d8ea862f6c7a0635e",
-      "confidence": 1.0,
-      "roi_score": 1.0,
-      "updated_at": "2026-07-23 10:26:59",
-      "support_count": 0
-    },
-    {
-      "id": "a788ef7a5b0d4986a026af18563b86f9",
-      "confidence": 1.0,
-      "roi_score": 1.0,
-      "updated_at": "2026-07-23 10:27:00",
-      "support_count": 0
-    },
-    {
-      "id": "4028729506a24919811037862d229d6a",
-      "confidence": 1.0,
-      "roi_score": 1.0,
-      "updated_at": "2026-07-23 10:27:01",
-      "support_count": 0
-    },
-    {
-      "id": "9dce93757c504280afb7e70ebbcd7385",
-      "confidence": 1.0,
-      "roi_score": 1.0,
-      "updated_at": "2026-07-23 10:27:02",
-      "support_count": 0
-    },
-    {
-      "id": "039b0e0a3a474dd08f1d6071c10dd873",
-      "confidence": 1.0,
-      "roi_score": 1.0,
-      "updated_at": "2026-07-23 10:27:04",
-      "support_count": 0
-    },
-    {
-      "id": "cfe64abcc28d4062a1c0aaf0c3319448",
-      "confidence": 1.0,
-      "roi_score": 1.0,
-      "updated_at": "2026-07-23 10:27:05",
-      "support_count": 0
-    },
-    {
-      "id": "f3e92f47cec34467b743aa065c85eab2",
-      "confidence": 1.0,
-      "roi_score": 1.0,
-      "updated_at": "2026-07-23 10:27:07",
-      "support_count": 0
-    },
-    {
-      "id": "ffc3837e67974b39a013254334b24eda",
-      "confidence": 1.0,
-      "roi_score": 1.0,
-      "updated_at": "2026-07-23 10:27:08",
-      "support_count": 0
-    },
-    {
-      "id": "63fb9eb9122040e29929d90c81df5e7b",
-      "confidence": 1.0,
-      "roi_score": 1.0,
-      "updated_at": "2026-07-23 10:27:09",
-      "support_count": 0
-    },
-    {
-      "id": "719566a85e1740679e57566a0af336af",
-      "confidence": 1.0,
-      "roi_score": 1.0,
-      "updated_at": "2026-07-23 10:27:10",
+      "updated_at": "2026-07-22 05:39:35",
       "support_count": 0
     },
     {
       "id": "9faae25c751840b6a7eae72393f25bf6",
       "confidence": 1.0,
       "roi_score": 1.0,
-      "updated_at": "2026-07-23 10:27:12",
+      "updated_at": "2026-07-22 06:36:33",
+      "support_count": 0
+    },
+    {
+      "id": "89a795ee33e74703b64476a0f6d2c3c6",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 06:43:37",
+      "support_count": 0
+    },
+    {
+      "id": "5721f19cf9e24449b90f462a4b031f77",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 06:43:38",
+      "support_count": 1
+    },
+    {
+      "id": "7f88a337f55648cf878d09643c9ec78f",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 06:43:38",
+      "support_count": 0
+    },
+    {
+      "id": "d3e7b63ec12c4a4d8ea862f6c7a0635e",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 06:43:38",
+      "support_count": 0
+    },
+    {
+      "id": "a788ef7a5b0d4986a026af18563b86f9",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 06:43:38",
+      "support_count": 0
+    },
+    {
+      "id": "4028729506a24919811037862d229d6a",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 06:43:38",
+      "support_count": 0
+    },
+    {
+      "id": "9dce93757c504280afb7e70ebbcd7385",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 06:43:38",
+      "support_count": 0
+    },
+    {
+      "id": "719566a85e1740679e57566a0af336af",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 12:06:16",
+      "support_count": 0
+    },
+    {
+      "id": "f81e6a55add04682b8521fd462770ff6",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 12:15:14",
+      "support_count": 0
+    },
+    {
+      "id": "039b0e0a3a474dd08f1d6071c10dd873",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 12:15:14",
+      "support_count": 0
+    },
+    {
+      "id": "cfe64abcc28d4062a1c0aaf0c3319448",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 12:15:14",
+      "support_count": 0
+    },
+    {
+      "id": "ffc3837e67974b39a013254334b24eda",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 12:15:14",
+      "support_count": 0
+    },
+    {
+      "id": "63fb9eb9122040e29929d90c81df5e7b",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 12:15:15",
+      "support_count": 0
+    },
+    {
+      "id": "f3e92f47cec34467b743aa065c85eab2",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-22 13:40:07",
       "support_count": 0
     },
     {
       "id": "38c7eaa73d1c4d6a930cd1f45eeab006",
       "confidence": 1.0,
       "roi_score": 1.0,
-      "updated_at": "2026-07-23 10:27:13",
+      "updated_at": "2026-07-23 09:33:50",
       "support_count": 0
     },
     {
       "id": "579c1d2d4130499cb17f9dcaa2cec1af",
       "confidence": 1.0,
       "roi_score": 1.0,
-      "updated_at": "2026-07-23 10:27:14",
-      "support_count": 1
+      "updated_at": "2026-07-23 09:33:50",
+      "support_count": 0
     },
     {
       "id": "72f4ef8f70c2436f9f82697f89021e36",
       "confidence": 1.0,
       "roi_score": 1.0,
-      "updated_at": "2026-07-23 10:33:34",
+      "updated_at": "2026-07-23 12:29:19",
       "support_count": 0
     }
   ]

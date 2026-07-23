@@ -112,6 +112,20 @@
       "roi_score": 1.0,
       "updated_at": "2026-07-22 13:40:07",
       "support_count": 0
+    },
+    {
+      "id": "38c7eaa73d1c4d6a930cd1f45eeab006",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-23 09:33:50",
+      "support_count": 0
+    },
+    {
+      "id": "579c1d2d4130499cb17f9dcaa2cec1af",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-23 09:33:50",
+      "support_count": 0
     }
   ]
 }

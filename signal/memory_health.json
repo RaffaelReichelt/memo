@@ -133,6 +133,223 @@
       "roi_score": 1.0,
       "updated_at": "2026-07-23 12:29:19",
       "support_count": 0
+    },
+    {
+      "id": "8cba1ce6670c4fc49770ab050b55e584",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-07-23 12:29:37",
+      "support_count": 0
+    },
+    {
+      "id": "6eb18d7034564eee94463c327d0fcf7d",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:27:11",
+      "support_count": 0
+    },
+    {
+      "id": "5025596eaa38428bb442e518e6bca17b",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:27:11",
+      "support_count": 0
+    },
+    {
+      "id": "b742d7dcdf854db58044844328b74fa9",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:33:53",
+      "support_count": 0
+    },
+    {
+      "id": "1970a2dc86aa4918a68d4736b3895715",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:33:53",
+      "support_count": 0
+    },
+    {
+      "id": "907d252271b347679fc52d8c163b91fb",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:33:53",
+      "support_count": 0
+    },
+    {
+      "id": "e9066aa85b814390a967ecf1430db7ba",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:33:53",
+      "support_count": 0
+    },
+    {
+      "id": "e33f2513d6e941e1ab54c48808e3fb45",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:33:53",
+      "support_count": 0
+    },
+    {
+      "id": "530efab783c34b6797aa936aeedc1c62",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:33:54",
+      "support_count": 0
+    },
+    {
+      "id": "142449ab768e40409e946749bf0bf26b",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:33:54",
+      "support_count": 0
+    },
+    {
+      "id": "46b783ad77c74383864ea075eaf9cf2f",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:33:54",
+      "support_count": 0
+    },
+    {
+      "id": "b639121215324dd98c36c79e4b58d750",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:33:54",
+      "support_count": 0
+    },
+    {
+      "id": "11534a6c8d73408c98df871fba644447",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:33:54",
+      "support_count": 0
+    },
+    {
+      "id": "0d885e3302d24ce88bf9454a72c3821f",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:33:54",
+      "support_count": 0
+    },
+    {
+      "id": "cdda25d8746848d9be3bf5a56bbf20f5",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:38:07",
+      "support_count": 0
+    },
+    {
+      "id": "89e5d5dfafe941dca950ab862d326430",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:38:07",
+      "support_count": 0
+    },
+    {
+      "id": "70e252e3345a4bc79a3709543473c1b3",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:38:07",
+      "support_count": 0
+    },
+    {
+      "id": "503755aef9fe44faa96e13a82b69df08",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:38:07",
+      "support_count": 0
+    },
+    {
+      "id": "663f7287b0364ed49ea6276636c534d8",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:38:07",
+      "support_count": 0
+    },
+    {
+      "id": "7333b4dc7ce7455e857373dfbea15901",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:38:07",
+      "support_count": 0
+    },
+    {
+      "id": "2fe43fbad0864b409cbb862e7fc0ce71",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:38:07",
+      "support_count": 0
+    },
+    {
+      "id": "76e8635b3c1d4db6a5272be81b6661db",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:38:07",
+      "support_count": 0
+    },
+    {
+      "id": "e2d0a9c095de4b8fb2b2a3ff9854b1ad",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:38:08",
+      "support_count": 0
+    },
+    {
+      "id": "fdb816fa4bf3492f95f19ae7f6d81adb",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:38:08",
+      "support_count": 0
+    },
+    {
+      "id": "23e107a4523e428cb497c849d29a892a",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:38:08",
+      "support_count": 0
+    },
+    {
+      "id": "d4882a6a54e640088a4a6c4949426eeb",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:40:44",
+      "support_count": 0
+    },
+    {
+      "id": "ffbdf5027e024d52baacdb8c3828be3c",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:40:44",
+      "support_count": 0
+    },
+    {
+      "id": "09f53238751a416d90dc89204170f00a",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:40:44",
+      "support_count": 0
+    },
+    {
+      "id": "a3d41f8fb89f4cc6b08ded6796a55925",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:40:44",
+      "support_count": 0
+    },
+    {
+      "id": "7fd66b05dc6843c3902a7fff47c1ee18",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:40:44",
+      "support_count": 0
+    },
+    {
+      "id": "0c2d6d58d1574aa38e519b0da2e642b0",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-05 06:40:45",
+      "support_count": 0
     }
   ]
 }

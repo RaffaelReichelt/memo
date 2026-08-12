@@ -406,6 +406,27 @@
       "roi_score": 1.0,
       "updated_at": "2026-08-06 07:10:04",
       "support_count": 0
+    },
+    {
+      "id": "dc09495da6d64ecf860a30587a067ae0",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-12 14:21:57",
+      "support_count": 0
+    },
+    {
+      "id": "b70d6b75bda64923ba18eb2af453d0c8",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-12 14:21:57",
+      "support_count": 0
+    },
+    {
+      "id": "3f5a814644124254a7d45f5ebde8cbf7",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-08-12 14:21:58",
+      "support_count": 0
     }
   ]
 }

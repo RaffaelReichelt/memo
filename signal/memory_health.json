@@ -567,6 +567,41 @@
       "roi_score": 1.0,
       "updated_at": "2026-09-20 07:45:58",
       "support_count": 0
+    },
+    {
+      "id": "cf07cd5ca07443f7b4d239dad9a33ff8",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-09-20 09:55:29",
+      "support_count": 0
+    },
+    {
+      "id": "1f34e741b7e045a28e30f2cce5e497df",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-09-20 09:55:31",
+      "support_count": 0
+    },
+    {
+      "id": "a9ba67d866254460acf0e4a97f7696c1",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-09-20 09:55:35",
+      "support_count": 0
+    },
+    {
+      "id": "86589b1c06a8401b82fac1d212f56fba",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-09-20 09:55:40",
+      "support_count": 0
+    },
+    {
+      "id": "c0c1a45e4e0b4edca98d36c8a6583814",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-09-20 09:55:56",
+      "support_count": 0
     }
   ]
 }

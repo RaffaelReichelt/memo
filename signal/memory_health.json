@@ -630,6 +630,13 @@
       "roi_score": 1.0,
       "updated_at": "2026-09-23 11:23:11",
       "support_count": 0
+    },
+    {
+      "id": "ad7a8aab836b425c894e53a477c7f8b5",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-09-26 13:47:49",
+      "support_count": 0
     }
   ]
 }

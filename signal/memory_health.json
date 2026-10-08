@@ -4,64 +4,64 @@
     {
       "id": "bb6ae8bbb9934caa84005789a2c59382",
       "confidence": 1.0,
-      "roi_score": 0.79179,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.79305,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "d68d364e49f04bedbe991f53f1f9aec5",
       "confidence": 1.0,
-      "roi_score": 1.02327,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 1.02399,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "d1cdc4d78d124b189cf9150d459b4615",
       "confidence": 1.0,
-      "roi_score": 1.31433,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 1.3153199999999998,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "17365ed9825b4e0fa0e3142c17981706",
       "confidence": 1.0,
-      "roi_score": 0.73491,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.7383299999999999,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "8be72e480fa344e99e1486fbca0d80b9",
       "confidence": 1.0,
-      "roi_score": 0.78882,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.7936799999999999,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "4587aeef18744b0ea2c36cbef6f47eb8",
       "confidence": 1.0,
-      "roi_score": 1.24917,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 1.25259,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "94a08a4a1684411ba61b466e883e82be",
       "confidence": 1.0,
-      "roi_score": 0.8634299999999999,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.86694,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "ca6a91121ff440a3ab2e674417e73bab",
       "confidence": 1.0,
-      "roi_score": 1.0760100000000001,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 1.07727,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "6931d7d9aee6400e988c8fdce1c68a33",
       "confidence": 1.0,
-      "roi_score": 0.75732,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.76137,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
@@ -550,22 +550,22 @@
     {
       "id": "cf07cd5ca07443f7b4d239dad9a33ff8",
       "confidence": 1.0,
-      "roi_score": 0.90492,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.90762,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "a9ba67d866254460acf0e4a97f7696c1",
       "confidence": 1.0,
-      "roi_score": 0.83598,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.8421,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "759511c3daf84e13897db36bc94bb2d6",
       "confidence": 1.0,
-      "roi_score": 0.83598,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.8421,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
@@ -578,64 +578,64 @@
     {
       "id": "fa70310d579f4585a4aba7089a68d631",
       "confidence": 1.0,
-      "roi_score": 0.78882,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.7936799999999999,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "ecacf8c796894dce802fce5454ed6459",
       "confidence": 1.0,
-      "roi_score": 0.8634299999999999,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.86694,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "552683830d0a4bd0b6999dbd6414fdbe",
       "confidence": 1.0,
-      "roi_score": 0.78882,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.7936799999999999,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "c0c1a45e4e0b4edca98d36c8a6583814",
       "confidence": 1.0,
-      "roi_score": 0.78882,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.7936799999999999,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "a5d8d108e2af43599ee7f5a2630a0fc5",
       "confidence": 1.0,
-      "roi_score": 0.75732,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.76137,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "77f5a74dbad147f9b521b26a2431c6af",
       "confidence": 1.0,
-      "roi_score": 0.83598,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.8421,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "02b03dcda8164b35ae721622962b832b",
       "confidence": 1.0,
-      "roi_score": 0.78882,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.7936799999999999,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "86589b1c06a8401b82fac1d212f56fba",
       "confidence": 1.0,
-      "roi_score": 0.78882,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.7936799999999999,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "ad7a8aab836b425c894e53a477c7f8b5",
       "confidence": 1.0,
-      "roi_score": 0.8744099999999999,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.9806999999999999,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
@@ -648,29 +648,29 @@
     {
       "id": "9513bd86530c49cd85d5643ee111222b",
       "confidence": 1.0,
-      "roi_score": 0.78882,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.7936799999999999,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "828fc916cd9a4c629442759ad2c15178",
       "confidence": 1.0,
-      "roi_score": 0.75732,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.76137,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "8cb821a87a0a40b8a23b8a7fb00d0516",
       "confidence": 1.0,
-      "roi_score": 0.8634299999999999,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.86694,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     },
     {
       "id": "de2c04a0995041cd8f710ed2f025b8da",
       "confidence": 1.0,
-      "roi_score": 0.78882,
-      "updated_at": "2026-10-07 13:38:56",
+      "roi_score": 0.7936799999999999,
+      "updated_at": "2026-10-08 09:13:13",
       "support_count": 0
     }
   ]

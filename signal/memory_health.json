@@ -686,6 +686,13 @@
       "roi_score": 1.0590899999999999,
       "updated_at": "2026-10-10 12:08:07",
       "support_count": 0
+    },
+    {
+      "id": "8e2f58ccb8ad4fe7b6a6ccb3752c9649",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-10-11 10:09:24",
+      "support_count": 0
     }
   ]
 }

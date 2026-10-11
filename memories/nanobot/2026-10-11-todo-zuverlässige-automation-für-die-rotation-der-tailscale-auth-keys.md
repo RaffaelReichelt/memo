@@ -26,7 +26,7 @@ extra:
   trust_tier: agent_inferred
   visibility: owner
   write_policy:
-    actor_id: memo
+    actor_id: memo-update
     allowed: true
     conflicts: []
     override: false
@@ -43,9 +43,10 @@ tags:
 - secrets
 - reminder
 - project:nanobot
-title: 'TODO: Zuverlässige Automation für die Rotation der Tailscale Auth Keys'
+title: 'TODO: Zuverlässige Automation für die Rotation der Tailscale Auth Keys (alle
+  Stacks)'
 type: note
-updated: '2026-10-11T12:15:05.505+02:00'
+updated: '2026-10-11T12:16:05.985+02:00'
 valid_at: '2026-10-11T12:15:05.505+02:00'
 verification_state: unverified
 ---
@@ -57,3 +58,5 @@ Warum: Abgelaufene oder ungültige Auth-Keys haben schon mehrfach Services ausge
 Randbedingungen: Docker-Secrets sind unveränderlich. Rotation heißt: neues Secret unter neuem Namen anlegen (z. B. ts_authkey_v4), die secrets:-Referenz im Stack umbiegen und neu deployen; docker secret create auf einen bestehenden Namen schlägt fehl. containerboot liest TS_AUTHKEY nur aus der Umgebung, deshalb ein Entrypoint-Shim, der das Secret einliest. Nach dem ersten erfolgreichen Login hält das persistente tailscale-state-Volume die Anmeldung; der Key wird danach nur bei Re-Login gebraucht (Node-Ablauf, Logout).
 
 Idee zur Lösung: Statt langlebiger Keys ein OAuth-Client oder die Tailscale-API (Keys per API erzeugen, kurze Laufzeit, reusable), ein Rotations-Job (systemd-Timer oder Cron) der pro Stack einen neuen Key erzeugt, ein neues versioniertes Secret anlegt, den Service umstellt und prüft, dass der Node online ist (tailscale status), alte Secrets nach Erfolg entfernt, und bei Fehlern benachrichtigt. Alle Tailscale-Sidecars (nanobot, open-webui, ollama, ai-stack, odoo, opensearch, boinc, hostmonitor) einbeziehen. Sollte mit der Notiz zum Kunden-Rollout zusammenpassen (pro Kunde eigener Tailnet-Key).
+
+GELTUNGSBEREICH (Präzisierung von Raffael, 2026-10-11): Die Rotation gilt für ALLE laufenden Services und Stacks, nicht nur für nanobot. Betroffen sind alle Tailscale-Sidecars auf gx10-b3ed: nanobot_tailscale, open-webui_tailscale, ollama_ollama-tailscale, ai-stack_tailscale, odoo_tailscale-odoo, opensearch_tailscale, boinc-dashboard_boinc-tailscale und hostmonitor_tailscale (derzeit 0/0 Replikate, also ausgeschaltet). Die Automation sollte zentral sein: ein Job, der die Stacks aus einer Liste durchgeht, pro Stack ein eigenes Secret erzeugt (kein gemeinsamer Key, siehe hostmonitor am 2026-08-22) und das Ergebnis je Stack prüft und meldet.

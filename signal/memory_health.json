@@ -693,6 +693,20 @@
       "roi_score": 1.0,
       "updated_at": "2026-10-11 10:09:24",
       "support_count": 0
+    },
+    {
+      "id": "835bc103f1954ede88c9ce5824248e51",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-10-11 10:15:02",
+      "support_count": 0
+    },
+    {
+      "id": "3ebbc4063c634f9a8bc2d638f9115a70",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-10-11 10:15:05",
+      "support_count": 0
     }
   ]
 }

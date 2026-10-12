@@ -46,7 +46,7 @@ tags:
 title: 'Tailscale ts_authkey Rotation: nanobot + open-webui gefixt, weitere Stacks
   noch offen'
 type: fact
-updated: '2026-09-07T06:42:23.444+02:00'
+updated: '2026-10-12T13:43:44.098+02:00'
 valid_at: '2026-09-07T06:38:39.968+02:00'
 verification_state: unverified
 ---
@@ -67,3 +67,5 @@ Separater Fund unterwegs: der `open-webui`-Stack war komplett undeployed (kein `
 Offen/noch nicht angegangen: `ai-stack` (ComfyUI), `opensearch`, `embedding`, `schmerzprotokoll` hängen noch am toten `ts_authkey`-Secret und sollten bei Gelegenheit ebenfalls auf `ts_authkey_v3` (oder je einen dedizierten Key) umgestellt werden, bevor sie beim nächsten Neustart/State-Verlust denselben Fehler zeigen.
 
 **Update (2026-09-07, abgeschlossen):** Auch `ai-stack`/ComfyUI (`/home/raffael/Projekte/ComfyUI/docker-compose.yml`, deployed als Stack "ai-stack") und `opensearch` (`/home/raffael/Projekte/opensearch/docker-compose.yml`) wurden auf `ts_authkey_v3` umgestellt und redeployed — beide liefen sauber durch, da ihre Tailscale-Session noch gültig war (kein Re-Auth nötig). `embedding` und `schmerzprotokoll` referenzierten den toten Secret ebenfalls, sind aber inzwischen gar nicht mehr deployed (nicht mehr gebraucht) — kein Handlungsbedarf dort. Damit hängen jetzt alle 6 aktiven Stacks (`nanobot`, `open-webui`, `ai-stack`, `opensearch`, `odoo`, `hostmonitor`) einheitlich an `ts_authkey_v3`. Der tote `ts_authkey`-Secret hat keine Abhängigen mehr und kann bei Gelegenheit per `docker secret rm ts_authkey` aufgeräumt werden. Kein offener Punkt mehr aus diesem Vorfall.
+
+**Korrektur (2026-10-12):** Der Stand oben ist teilweise veraltet. `ts_authkey` ist nicht tot: `ollama_ollama-tailscale` haengt noch daran (inzwischen mit neuem Key rotiert). `boinc-dashboard` hat ebenfalls einen Sidecar an `ts_authkey_v3`, `hostmonitor` nutzt `ts_authkey_hostmonitor`. Siehe die Notiz "Tailscale ts_authkey Rotation (Swarm): Skript fertig und getestet" fuer den aktuellen Stand.

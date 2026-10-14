@@ -26,7 +26,7 @@ extra:
   trust_tier: agent_inferred
   visibility: owner
   write_policy:
-    actor_id: memo
+    actor_id: memo-update
     allowed: true
     conflicts: []
     override: false
@@ -44,7 +44,7 @@ tags:
 - project:ollama
 title: 'TODO: Docker Model Runner (DMR) als Ollama-Alternative ausprobieren'
 type: note
-updated: '2026-10-14T09:56:23.203+02:00'
+updated: '2026-10-14T10:03:34.600+02:00'
 valid_at: '2026-10-14T09:56:23.203+02:00'
 verification_state: unverified
 ---
@@ -60,3 +60,5 @@ Hintergrund/Einschätzung aus dem Gespräch:
 - Zu testen: llama.cpp auf GB10/aarch64 (Ollama meldet "compute capability not in compiled architectures"), Verfügbarkeit der Modelle (kolibri, mistral-small-4, qwen3-vl), Ersatz für keep_alive/MAX_LOADED_MODELS.
 
 Erinnerung: bei passender Gelegenheit in Ollama-/Rollout-Sessions einmal darauf hinweisen.
+
+Ergänzung (2026-10-14): Die Modellauswahl ist kein Argument für oder gegen DMR. Ollama zieht GGUF direkt von Hugging Face (`ollama pull hf.co/<user>/<repo>[:Quant]`), DMR kann laut Wissensstand (ungeprüft) ebenfalls `hf.co/...`. Entscheidend sind Swarm-Integration, Registry und Betrieb. Für den Kunden-Rollout vorab Modelllizenzen prüfen (nicht jedes HF-Modell ist kommerziell nutzbar).

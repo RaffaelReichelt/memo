@@ -714,6 +714,13 @@
       "roi_score": 1.13838,
       "updated_at": "2026-10-14 07:18:15",
       "support_count": 0
+    },
+    {
+      "id": "3dceca91b7a5493e9075fc1712f52700",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-10-14 07:56:23",
+      "support_count": 0
     }
   ]
 }

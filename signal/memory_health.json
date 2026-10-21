@@ -728,6 +728,13 @@
       "roi_score": 1.0,
       "updated_at": "2026-10-21 10:01:34",
       "support_count": 0
+    },
+    {
+      "id": "83f30848c2f04b5faa11fdec3465874e",
+      "confidence": 1.0,
+      "roi_score": 1.0,
+      "updated_at": "2026-10-21 10:12:21",
+      "support_count": 0
     }
   ]
 }

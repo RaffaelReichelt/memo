@@ -26,7 +26,7 @@ extra:
   trust_tier: agent_inferred
   visibility: owner
   write_policy:
-    actor_id: memo
+    actor_id: memo-update
     allowed: true
     conflicts: []
     override: false
@@ -47,7 +47,7 @@ tags:
 title: 'Tailscale ts_authkey Rotation (Swarm): Skript fertig und getestet, Rollout
   auf alle Stacks steht aus'
 type: decision
-updated: '2026-10-12T13:43:36.917+02:00'
+updated: '2026-10-24T08:50:28.985+02:00'
 valid_at: '2026-10-12T13:43:36.917+02:00'
 verification_state: unverified
 ---
@@ -76,3 +76,5 @@ Projekt: /home/raffael/Projekte/key-rotation (kein Git). Loest das TODO [3ebbc40
 
 **Offen / Entscheidung**
 Raffael will vor dem Rollout alle Stacks einzeln ueberarbeiten und denkt noch nach. Noch nichts auf ts_authkey_v3 oder per Timer ausgerollt. Bei Rollout auf v3 werden 6 Stacks doppelt neu gestartet, besser ausserhalb der Nutzungszeit. Offene Frage: ein gemeinsames Tag/Secret fuer alle oder pro Stack getrennt, und monatlich statt woechentlich rotieren (Neustarts).
+
+**Update 2026-10-24 (geprüft per docker service inspect):** Auf `ts_authkey` (rotiert 2026-10-12) laufen jetzt: ollama_ollama-tailscale, ai-stack_tailscale, open-webui_tailscale, registry2_tailscale. Noch auf `ts_authkey_v3`: odoo_tailscale-odoo, opensearch_tailscale; nanobot (und boinc-dashboard) nicht geprüft, laut Stand 10-12 ebenfalls v3. Raffael stellt odoo, opensearch und nanobot als Nächstes um. Der systemd-Timer ist weiterhin NICHT installiert (kein Rotations-Timer in `systemctl list-timers`, nichts in /etc/systemd/system), TODO [3ebbc406] damit noch offen.
